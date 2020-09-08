@@ -1,0 +1,70 @@
+.App {
+text-align: center; 
+}
+#seach{
+    margin-top: 10px;
+}
+.user-input-text-field {
+    height: 40px;
+    border-radius: 4px;
+    box-shadow: 0 3px 6px gainsboro;
+    border: none;
+ 
+}
+#game-info{
+    display: flex; 
+}
+td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    font-size: small;
+    word-wrap: break-word;
+    white-space: wrap;
+    padding: 8px;
+  }
+  
+  tr:nth-child(even) {
+    background-color: #dddddd;
+  }
+table{
+    word-wrap: break-word;
+    white-space: wrap;
+    border-radius: 4px;
+    box-shadow: 0 3px 6px gainsboro;
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: inherit;
+    margin-left: 5%;
+}
+.race-name{
+ 
+    width:60%; 
+}
+#tab {
+    margin-top: 30px;
+    margin-left: 1px;
+}
+
+.user-input-button {
+    margin-left: -25px;
+    margin-bottom: -15px;
+    height: 30px;
+    border: none;
+    background: transparent;
+    cursor: pointer;
+}
+
+form {
+    display: inline;
+}
+
+.user-input-text-field {
+    text-indent: 4px;
+    width: 60%;
+
+}
+
+
+
+
+
