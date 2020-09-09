@@ -2,7 +2,7 @@
 
 In the project directory, you can run:
 
-## `ninstall`
+## `npm install`
 
 Run npm install to install nodejs modules
 
